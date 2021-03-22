@@ -1,0 +1,202 @@
+[
+    {
+        "Book_Category": "Travel",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/travel_2/index.html"
+    },
+    {
+        "Book_Category": "Mystery",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/mystery_3/index.html"
+    },
+    {
+        "Book_Category": "Historical Fiction",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html"
+    },
+    {
+        "Book_Category": "Sequential Art",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html"
+    },
+    {
+        "Book_Category": "Classics",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/classics_6/index.html"
+    },
+    {
+        "Book_Category": "Philosophy",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/philosophy_7/index.html"
+    },
+    {
+        "Book_Category": "Romance",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/romance_8/index.html"
+    },
+    {
+        "Book_Category": "Womens Fiction",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/womens-fiction_9/index.html"
+    },
+    {
+        "Book_Category": "Fiction",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/fiction_10/index.html"
+    },
+    {
+        "Book_Category": "Childrens",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/childrens_11/index.html"
+    },
+    {
+        "Book_Category": "Religion",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/religion_12/index.html"
+    },
+    {
+        "Book_Category": "Nonfiction",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/nonfiction_13/index.html"
+    },
+    {
+        "Book_Category": "Music",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/music_14/index.html"
+    },
+    {
+        "Book_Category": "Default",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/default_15/index.html"
+    },
+    {
+        "Book_Category": "Science Fiction",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html"
+    },
+    {
+        "Book_Category": "Sports and Games",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/sports-and-games_17/index.html"
+    },
+    {
+        "Book_Category": "Add a comment",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/add-a-comment_18/index.html"
+    },
+    {
+        "Book_Category": "Fantasy",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html"
+    },
+    {
+        "Book_Category": "New Adult",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/new-adult_20/index.html"
+    },
+    {
+        "Book_Category": "Young Adult",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/young-adult_21/index.html"
+    },
+    {
+        "Book_Category": "Science",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/science_22/index.html"
+    },
+    {
+        "Book_Category": "Poetry",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/poetry_23/index.html"
+    },
+    {
+        "Book_Category": "Paranormal",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/paranormal_24/index.html"
+    },
+    {
+        "Book_Category": "Art",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/art_25/index.html"
+    },
+    {
+        "Book_Category": "Psychology",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/psychology_26/index.html"
+    },
+    {
+        "Book_Category": "Autobiography",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/autobiography_27/index.html"
+    },
+    {
+        "Book_Category": "Parenting",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/parenting_28/index.html"
+    },
+    {
+        "Book_Category": "Adult Fiction",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/adult-fiction_29/index.html"
+    },
+    {
+        "Book_Category": "Humor",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/humor_30/index.html"
+    },
+    {
+        "Book_Category": "Horror",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/horror_31/index.html"
+    },
+    {
+        "Book_Category": "History",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/history_32/index.html"
+    },
+    {
+        "Book_Category": "Food and Drink",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/food-and-drink_33/index.html"
+    },
+    {
+        "Book_Category": "Christian Fiction",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html"
+    },
+    {
+        "Book_Category": "Business",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/business_35/index.html"
+    },
+    {
+        "Book_Category": "Biography",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/biography_36/index.html"
+    },
+    {
+        "Book_Category": "Thriller",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/thriller_37/index.html"
+    },
+    {
+        "Book_Category": "Contemporary",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/contemporary_38/index.html"
+    },
+    {
+        "Book_Category": "Spirituality",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/spirituality_39/index.html"
+    },
+    {
+        "Book_Category": "Academic",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/academic_40/index.html"
+    },
+    {
+        "Book_Category": "Self Help",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/self-help_41/index.html"
+    },
+    {
+        "Book_Category": "Historical",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/historical_42/index.html"
+    },
+    {
+        "Book_Category": "Christian",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/christian_43/index.html"
+    },
+    {
+        "Book_Category": "Suspense",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/suspense_44/index.html"
+    },
+    {
+        "Book_Category": "Short Stories",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/short-stories_45/index.html"
+    },
+    {
+        "Book_Category": "Novels",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/novels_46/index.html"
+    },
+    {
+        "Book_Category": "Health",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/health_47/index.html"
+    },
+    {
+        "Book_Category": "Politics",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/politics_48/index.html"
+    },
+    {
+        "Book_Category": "Cultural",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/cultural_49/index.html"
+    },
+    {
+        "Book_Category": "Erotica",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/erotica_50/index.html"
+    },
+    {
+        "Book_Category": "Crime",
+        "Book_First_Link": "https://books.toscrape.com/catalogue/category/books/crime_51/index.html"
+    }
+]
